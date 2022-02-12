@@ -11,7 +11,7 @@ Our querying helped to develop some valuable insights for Pewlett-Hackard manage
 - There are 240,124 current employees working for Pewlett-Hackard. 72,458 of them (30%) are in the age range that we’ve defined as retirement-eligible – those born between 1/1/52 and 12/31/55.  
 ![current employee count](/Screenshots/current_employee_count.PNG)
 
-- Senior Engineer and Senior Staff roles make up 50,842 of the 72,458 retirement-eligible positions (70%). Below screenshot from the retiring_titles table:  
+- Senior Engineer and Senior Staff roles make up 50,842 of the 72,458 retirement-eligible positions (70%). Below is a screenshot from the retiring_titles table:  
 ![retiring employees by title](/Screenshots/retirement_eligible_by_title.PNG)
 
 - Of the 240,124 current employees working for Pewlett-Hackard, 1,549 are in the age band (born in 1965) defined as eligible to serve as mentors for younger employees.  
